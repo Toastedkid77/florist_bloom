@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"florist-bloom","appId":"1:525168728066:android:1da31a48979f429ea56f1b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"florist-bloom","configurations":{"android":"1:525168728066:android:1da31a48979f429ea56f1b","ios":"1:525168728066:ios:7072092dda7923a3a56f1b"}}}}}}
